@@ -2,7 +2,7 @@
 
 It’s a basic small wep page to split your bills, using React.js
 
-## deployed site :
+## deployed site : https://split-ur-bill.netlify.app/
 
 ## to run the projet :
 
